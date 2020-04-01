@@ -1,0 +1,12 @@
+C:\git\MahjongApp\Main\Main\bin\Debug\netstandard2.0\Main.deps.json
+C:\git\MahjongApp\Main\Main\bin\Debug\netstandard2.0\Main.dll
+C:\git\MahjongApp\Main\Main\bin\Debug\netstandard2.0\ref\Main.dll
+C:\git\MahjongApp\Main\Main\bin\Debug\netstandard2.0\Main.pdb
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\Main.csprojAssemblyReference.cache
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\Main.AssemblyInfoInputs.cache
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\Main.AssemblyInfo.cs
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\Main.dll
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\ref\Main.dll
+C:\git\MahjongApp\Main\Main\obj\Debug\netstandard2.0\Main.pdb

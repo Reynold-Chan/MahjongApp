@@ -18,6 +18,7 @@ namespace Main
             InitializeComponent();
         }
 
+
         private void AboutClick(object sender, EventArgs e)
         {
             TitleBlock.Text = "This app aims to recognize mahjong hands from taking an image of your winning hand and calculate the appropiate points allotted";
@@ -27,5 +28,7 @@ namespace Main
         {
 
         }
+
+
     }
 }

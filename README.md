@@ -21,9 +21,11 @@ Refer to the following for the guide from .NET on quickstart
 Use C# Xamarian forms for app development
 
 [Xamarian forms for App development](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin-forms)
+
 [Xamarian plug in for media](https://github.com/jamesmontemagno/MediaPlugin) 
  
 Use python to train the machine learning model 
+
 [Python api packaging for machine learning models](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
 
-Pytorch for training the machien model
+Pytorch for training the machine model

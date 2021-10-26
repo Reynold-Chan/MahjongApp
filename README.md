@@ -1,5 +1,9 @@
 # MahjongApp
 
+# Dataset :
+https://github.com/Camerash/mahjong-dataset
+
+
 ## Aim: 
 Writing an mobile app to recognize mahjong tiles and release to apps store.
 
